@@ -34,7 +34,6 @@ Here you can find:
 
 - Issue Tracking system (Bugs, Enchantments)
 - Code for all built in Custom Classes
-- 
 
-HREngine vs Hearthcrawler where is the difference?
+####HREngine vs Hearthcrawler where is the difference?
 HREngine is the internal code name of Hearthcrawler. You may find it somewhere in the internet because we've renamed the Bot a few days ago. The old name was HREngine. This will stay as internal code name.
