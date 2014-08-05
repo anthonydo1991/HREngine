@@ -1,0 +1,20 @@
+[15:38:12]: Setting mode: Ranked Play
+[15:38:12]: UseProfile:True
+[15:38:12]: Fast mode is disabled.
+[15:38:12]: Activate deck LadderDruid
+[15:38:12]: Scene [TOURNAMENT] fully loaded.
+[15:38:12]: Scene switched from [INVALID] to [TOURNAMENT]
+[15:38:12]: Pausing...
+[15:38:17]: Enqueue for ranked game
+[15:38:33]: Scene [GAMEPLAY] fully loaded.
+[15:38:33]: Scene switched from [TOURNAMENT] to [GAMEPLAY]
+[15:38:50]: Exception occured.
+[15:38:50]: Method not found: 'HREngine.API.HRGame.ConcedeGame'.
+[15:38:50]:    at System.Environment.get_StackTrace()
+[15:38:51]: Exception occured.
+[15:38:51]: Method not found: 'HREngine.API.HRGame.ConcedeGame'.
+[15:38:51]:    at System.Environment.get_StackTrace()
+[15:38:52]: Exception occured.
+[15:38:52]: Method not found: 'HREngine.API.HRGame.ConcedeGame'.
+[15:38:52]:    at System.Environment.get_StackTrace()
+[15:38:53]: Exception occured.
